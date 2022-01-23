@@ -4,7 +4,7 @@
 
 ~ 🙋‍♂️ I enjoy 🏃 running, 🌱 gardening, and 🎶 music! (and coding, of course)
 
-~ 👨‍💻 Looking for a fall 2021 internship
+~ 👨‍💻 I'm Looking for a 2022 internship!
 
 <!---
 rbrower28/rbrower28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
