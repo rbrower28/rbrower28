@@ -14,7 +14,7 @@ I'm a software engineer with a passion for a quality user experience. I enjoy bu
 - [ **MERN & D3.js** ]: Generating stunning and intricate visuals on dynamic and secure fullstack web applications.
 
 ### 💼 Looking for opportunities in:
-- [ **Finance or Healthcare** ]: Looking to make real-world changes and influence lives for the better.
+- [ **Finance or Healthcare Tech** ]: Looking to make real-world changes and influence lives for the better.
 
 ### 📫 How to reach me:
 - LinkedIn: https://www.linkedin.com/in/ryanbrower/
